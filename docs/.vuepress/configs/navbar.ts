@@ -3,7 +3,7 @@ import type { NavbarConfig } from "@vuepress/theme-default";
 export const navbar: NavbarConfig = [
   {
     text: "Representation",
-    link: "/rep/",
+    link: "/representation/",
   },
   {
     text: "VEC Processes",
@@ -11,7 +11,7 @@ export const navbar: NavbarConfig = [
   },
   {
     text: "University Processes",
-    link: "/uni/",
+    link: "/university/",
   },
   {
     text: "VEC Services",

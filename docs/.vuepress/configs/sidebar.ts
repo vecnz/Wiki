@@ -1,13 +1,13 @@
 import type { SidebarConfig } from "@vuepress/theme-default";
 
 export const sidebar: SidebarConfig = {
-  "/rep/": [
+  "/representation/": [
     {
       text: "Representation",
       children: [
-        "/rep/README.md",
-        "/rep/classreps.md",
-        "/rep/representation.md",
+        "/representation/README.md",
+        "/representation/classreps.md",
+        "/representation/representation.md",
       ],
     },
   ],
@@ -23,10 +23,10 @@ export const sidebar: SidebarConfig = {
       ],
     },
   ],
-  "/uni/": [
+  "/university/": [
     {
       text: "University Processes",
-      children: ["/uni/README.md"],
+      children: ["/university/README.md"],
     },
   ],
   "/services/": [

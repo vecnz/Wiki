@@ -1,12 +1,23 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import { navbar, sidebar } from './configs/index.js'
+import { navbar, sidebar, head } from './configs/index.js'
+import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
   lang: 'en-US',
   title: 'VEC Wiki',
   description: 'Victoria Engineering Club Wiki',
   base: '/',
+  head,
+  plugins: [
+    searchPlugin({
+      locales: {
+        '/': {
+          placeholder: 'Search',
+        },
+      },
+    }),
+  ],
   theme: defaultTheme({
     logo: '/images/logo_small.png',
     repo: 'vecnz/wiki',

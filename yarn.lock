@@ -616,6 +616,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@vuepress/plugin-search@npm:next":
+  version: 2.0.0-beta.51
+  resolution: "@vuepress/plugin-search@npm:2.0.0-beta.51"
+  dependencies:
+    "@vuepress/client": 2.0.0-beta.51
+    "@vuepress/core": 2.0.0-beta.51
+    "@vuepress/shared": 2.0.0-beta.51
+    "@vuepress/utils": 2.0.0-beta.51
+    chokidar: ^3.5.3
+    vue: ^3.2.37
+    vue-router: ^4.1.4
+  checksum: 750c66e7e853611cb1e23d02ed6e7170e5c9e73de9252552858e80c292c0721255359813eebd2320e209884d86d98245d1dd8ac6b1830d78b707acd62bab9c22
+  languageName: node
+  linkType: hard
+
 "@vuepress/plugin-theme-data@npm:2.0.0-beta.51":
   version: 2.0.0-beta.51
   resolution: "@vuepress/plugin-theme-data@npm:2.0.0-beta.51"
@@ -3157,6 +3172,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wiki@workspace:."
   dependencies:
+    "@vuepress/plugin-search": next
     vuepress: next
   languageName: unknown
   linkType: soft
