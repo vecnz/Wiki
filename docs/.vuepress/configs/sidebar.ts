@@ -14,7 +14,13 @@ export const sidebar: SidebarConfig = {
   "/club/": [
     {
       text: "VEC Processes",
-      children: ["/club/README.md"],
+      children: [
+        "/club/README.md",
+        "/club/getting-involved.md",
+        "/club/collective.md",
+        "/club/events.md",
+        "/club/handover.md",
+      ],
     },
   ],
   "/uni/": [
