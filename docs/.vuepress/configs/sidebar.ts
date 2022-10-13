@@ -8,6 +8,7 @@ export const sidebar: SidebarConfig = {
         "/representation/README.md",
         "/representation/classreps.md",
         "/representation/representation.md",
+        "/representation/boards.md",
       ],
     },
   ],
