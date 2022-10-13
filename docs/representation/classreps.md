@@ -1,7 +1,7 @@
 # Class Representatives
 
 ## What is a Class Rep?
-Class Reps are the bridge between students and the lecturer. They facilitate feedback from the student body to the lecturer and course coordinator. They also help to ensure that the lecturer is aware of any issues that may arise during the course. Class Reps are not there to be unpaid tutors, note takers or to do the lecturer's job. They are there to represent the students and to ensure that the lecturer is aware of any issues that may arise during the course. 
+Class Reps are the bridge between students and the lecturer. They facilitate feedback from the student body to the lecturer and course coordinator. They also help to ensure that the lecturer is aware of any issues that may arise during the course. Class Reps are not there to be unpaid tutors, note takers or to do the lecturer's job. They are there to represent the students and to ensure that the lecturer is aware of any issues that may arise during the course. The official description according to the Class Representative Policy can be found [here](https://www.wgtn.ac.nz/documents/policy/academic/class-representative-policy.pdf).
 
 ### How to become a Class Rep?
 Class Reps should be appointed by week 2 of the course by an in class vote. The lecturer will typically call for nominations in week 1/2 with a vote held in a lecture in week 2. Anyone taking the course can become a Class Rep and the number of Class Reps is decided by the Course Coordinator.
