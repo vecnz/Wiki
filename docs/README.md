@@ -28,3 +28,8 @@ footer: MIT Licensed | Copyright © 2022-present Victoria Engineering Club
 
 This is a public wiki for students at Victoria University of Wellington. It is maintained by the Victoria Engineering Club (VEC) and is free and open to all students. It contains resources and guides for students, including information on student representation, VEC services, and University processes.
 
+## Sponsors
+Thanks to our amazing Sponsors VEC is able to continue its work.
+
+![[Potentia](https://www.potentia.co.nz)](/images/sponsors/potentia.png) ![[Atlassian](https://www.atlassian.com)](/images/sponsors/atlassian.png)
+
