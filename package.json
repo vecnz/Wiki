@@ -1,0 +1,16 @@
+{
+  "name": "wiki",
+  "packageManager": "yarn@3.2.4",
+  "repository": "https://github.com/vecnz/wiki.git",
+  "author": {
+    "name": "Victoria Engineering Club",
+    "email": "contact@vec.ac.nz"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "next"
+  }
+}
