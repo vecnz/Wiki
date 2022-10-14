@@ -27,7 +27,7 @@ export const sidebar: SidebarConfig = {
   "/university/": [
     {
       text: "University Processes",
-      children: ["/university/README.md"],
+      children: ["/university/README.md", "/university/faq.md"],
     },
   ],
   "/services/": [
