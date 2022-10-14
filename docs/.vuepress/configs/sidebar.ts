@@ -22,6 +22,7 @@ export const sidebar: SidebarConfig = {
         "/club/events.md",
         "/club/engagement.md",
         "/club/meetings.md",
+        "/club/structure.md",
         "/club/handover.md",
       ],
     },
@@ -29,7 +30,11 @@ export const sidebar: SidebarConfig = {
   "/university/": [
     {
       text: "University Processes",
-      children: ["/university/README.md", "/university/faq.md"],
+      children: [
+        "/university/README.md",
+        "/university/guides.md",
+        "/university/faq.md",
+      ],
     },
   ],
   "/services/": [

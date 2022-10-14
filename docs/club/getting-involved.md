@@ -1,1 +1,2 @@
 # Getting Involved
+If you are interested in getting involved with any area of VEC we would love to have you! There are many ways to get involved and we have a number of roles that you can fill. If there is a specific field or group you would like to join reach out to a member of the organising team for that club in the [Collective](collective.html) or a member of the board and they will be able to help you get involved. If you wish to help out generally we would love to have you in our organising team and you can reach out to any of the board members to get involved.
