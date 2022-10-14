@@ -1,6 +1,6 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
-import { navbar, sidebar } from './configs/index.js'
+import { navbar, sidebar, head } from './configs/index.js'
 import { searchPlugin } from '@vuepress/plugin-search'
 
 export default defineUserConfig({
@@ -8,6 +8,7 @@ export default defineUserConfig({
   title: 'VEC Wiki',
   description: 'Victoria Engineering Club Wiki',
   base: '/',
+  head,
   plugins: [
     searchPlugin({
       locales: {
