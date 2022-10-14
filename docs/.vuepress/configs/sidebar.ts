@@ -20,6 +20,7 @@ export const sidebar: SidebarConfig = {
         "/club/getting-involved.md",
         "/club/collective.md",
         "/club/events.md",
+        "/club/engagement.md",
         "/club/handover.md",
       ],
     },
