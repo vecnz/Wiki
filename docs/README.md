@@ -4,13 +4,13 @@ title: Home
 heroImage: /images/logo_full.png
 actions:
   - text: Representation
-    link: /rep/
+    link: /representation/
     type: secondary
   - text: VEC Services
     link: /services/
     type: primary
   - text: University Processes
-    link: /uni/
+    link: /university/
     type: secondary
 features:
   - title: Representation
