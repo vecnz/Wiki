@@ -34,14 +34,23 @@ Handover should occur immediately after the AGM and continue until the end of th
 - Support new president in the background
 
 ### Vice President
+- Hand over key for cupboard
+- Go over expectations of the role, [reference](https://docs.google.com/document/d/1O9AJ4xHcaxtCuh5c8gfEEnSzqmshAGGVgH2cbp0tKfU/edit?usp=sharing)
 
 ### Secretary
+- Go over expectations of the role, [reference](https://docs.google.com/document/d/1m1zDe3LxF1sRV7ADjS17Z1cfZ3n3jf5-06g6CcR5q4M/edit?usp=sharing)
 
 ### Treasurer
+- Hand over bank account details and cards
+- Organise signatories handover with bank
+- Walk through funding and sponsorship process
+- Go over expectations of the role, [reference](https://docs.google.com/document/d/1oMaE-CpiST1p6T6htE33f8noF2pM-mZn11rpPQwqinM/edit?usp=sharing)
 
 ### Engagement Lead
+- Go over expectations of the role, [reference](https://docs.google.com/document/d/1fsm62mWFXkkkShr8EIF4T6Xb51fPcTNazLYRUwLxGp0/edit?usp=sharing)
 
 ### Representation Lead
+- Go over expectations of the role, [reference](https://docs.google.com/document/d/1BF2WcHBCTinebJYBPhnh_1vmjMcujz-YUnNpzyIpF_g/edit?usp=sharing)
 
 ## Post Handover Tasks
 Once the Handover is complete the Secretary will complete the final tasks.
