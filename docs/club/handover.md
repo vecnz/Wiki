@@ -53,7 +53,7 @@ Handover should occur immediately after the AGM and continue until the end of th
 - Go over expectations of the role, [reference](https://docs.google.com/document/d/1BF2WcHBCTinebJYBPhnh_1vmjMcujz-YUnNpzyIpF_g/edit?usp=sharing)
 
 ## Post Handover Tasks
-Once the Handover is complete the Secretary will complete the final tasks.
+Once the Handover is complete (Friday week 12) the Secretary will complete the final tasks.
 - Change Bitwarden master password removing the old boards access
 - Make sure all property has been returned
 - Remove access of old board members from the Google Drive and any other services

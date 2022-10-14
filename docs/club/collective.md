@@ -14,7 +14,7 @@ VRAM is a club for people interested in robotics and mechatronics. They run a nu
 ### Victoria SEcurity Club (VSEC)
 Comprised of hackers and security enthusiasts, VSEC is a club for people interested in all things security. The source of VECCTF, lockpicking workshops and a number of other events, VSEC is a great place to learn about security and meet like-minded people.
 
-### Victoria Information SYstems and Data Analytics (VISDA)
+### Victoria Information Systems and Data Analytics (VISDA)
 
 
 ### Google Developer Student Club (GDSC)
