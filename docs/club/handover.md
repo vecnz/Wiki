@@ -28,29 +28,29 @@ Handover should occur immediately after the AGM and continue until the end of th
   - Sponsors
   - VUWSA President
   - Clubs Manager
-- Go over expectations of president and standards of the club, [reference](https://docs.google.com/document/d/1NKzQcO9EtKJc5n_A02ppbdsuhtuBuWzLJoCPFy2Jteg/view)
+- Go over expectations of president and standards of the club, [reference](structure.html#president)
 - During handover make new president also sign off on events and part of the actions taken
 - Work with treasurer for bank account handover
 - Support new president in the background
 
 ### Vice President
 - Hand over key for cupboard
-- Go over expectations of the role, [reference](https://docs.google.com/document/d/1O9AJ4xHcaxtCuh5c8gfEEnSzqmshAGGVgH2cbp0tKfU/edit?usp=sharing)
+- Go over expectations of the role, [reference](structure.html#vice-president)
 
 ### Secretary
-- Go over expectations of the role, [reference](https://docs.google.com/document/d/1m1zDe3LxF1sRV7ADjS17Z1cfZ3n3jf5-06g6CcR5q4M/edit?usp=sharing)
+- Go over expectations of the role, [reference](structure.html#secretary)
 
 ### Treasurer
 - Hand over bank account details and cards
 - Organise signatories handover with bank
 - Walk through funding and sponsorship process
-- Go over expectations of the role, [reference](https://docs.google.com/document/d/1oMaE-CpiST1p6T6htE33f8noF2pM-mZn11rpPQwqinM/edit?usp=sharing)
+- Go over expectations of the role, [reference](structure.html#treasurer)
 
 ### Engagement Lead
-- Go over expectations of the role, [reference](https://docs.google.com/document/d/1fsm62mWFXkkkShr8EIF4T6Xb51fPcTNazLYRUwLxGp0/edit?usp=sharing)
+- Go over expectations of the role, [reference](structure.html#engagement-lead)
 
 ### Representation Lead
-- Go over expectations of the role, [reference](https://docs.google.com/document/d/1BF2WcHBCTinebJYBPhnh_1vmjMcujz-YUnNpzyIpF_g/edit?usp=sharing)
+- Go over expectations of the role, [reference](structure.html#representation-lead)
 
 ## Post Handover Tasks
 Once the Handover is complete (Friday week 12) the Secretary will complete the final tasks.
