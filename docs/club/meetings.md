@@ -1,6 +1,6 @@
 # Meetings
 
-The main functioning of the Board in deciding matters and for events and Clubs in the Collective is through the use of regular meetings. These meetings can differ in their structure based on their purpose with board meetings following a formal structure and Collective Club and event meetings deciding on their formality and structure as appropriate.
+The main functioning of the Board in deciding matters and for events and Clubs in the Collective is through the use of regular meetings. These meetings can differ in their structure based on their purpose with board meetings following a formal structure and Collective Club and event meetings deciding on their formality and structure as appropriate. We also really dislike meetings as they tend to only be useful for major decisions and can be a waste of time for minor decisions. As such we try to avoid meetings as much as possible and instead use other forms of communication to make decisions. This allows us to remain flexible and responsive to the needs of the club while still ensuring that we have a formal process for making decisions.
 
 ## Board Meetings
 Meetings should be organised in advance in order to give fair warning to board meetings in order to maximise attendance. VEC does not use set meeting dates and instead the Secretary gets the availabliliy of board members at least 2 weeks before the planned board meeting time, typically a tool such as [when2meet](https://www.when2meet.com/) is used to find a time that works for everyone. At least 7 days before the best time the Secretary should inform the board of the meeting time and book the room if the meeting can be run in person, accommodations should be made for remote access at all times.
@@ -26,3 +26,6 @@ After the meeting the minutes should also be publicly available in a read only f
 
 ### Private Meetings
 Occasionally a topic comes to the boards attention which should not be discussed in a public forum, typically this will be related to conduct or legal matters. In these cases the board will expel public attendees for that portion of the meeting and keep the minutes for that section of the meeting in the `Private Meetings` section of the Google Drive. 
+
+## Other meetings
+Other meetings are used in organising events or within the VEC Collective. These meetings can be either formal meetings with an agenda and minutes or more informal catchups. For meetings within the Collective or large events its recommended minutes are kept especially once decisions are made so that there is a record available. For smaller meetings minutes do not need to be kept.
