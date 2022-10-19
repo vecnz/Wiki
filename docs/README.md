@@ -9,6 +9,9 @@ actions:
   - text: VEC Services
     link: /services/
     type: primary
+  - text: VEC Processes
+    link: /club/
+    type: primary
   - text: University Processes
     link: /university/
     type: secondary
