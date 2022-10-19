@@ -25,6 +25,7 @@ export const sidebar: SidebarConfig = {
         "/club/structure.md",
         "/club/finances.md",
         "/club/handover.md",
+        "/club/other.md",
       ],
     },
   ],
@@ -43,6 +44,7 @@ export const sidebar: SidebarConfig = {
       text: "VEC Services",
       children: [
         "/services/README.md",
+        "/services/shared.md",
         "/services/vicverify.md",
         "/services/vecbot.md",
       ],
