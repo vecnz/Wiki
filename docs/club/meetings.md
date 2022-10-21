@@ -15,6 +15,7 @@ Before the meeting and preferably when the meeting time is announced and no less
 - The agenda items should reflect the overall purpose of the meeting
 - Individual agenda items, put forward by exec members, should reflect what that individual member is trying to achieve
 - Agenda items should always have a purpose and have a title and name attached
+- No suprises should come up in the board meeting with extra info added to the agenda or sent our beforehand if needed
 
 The agenda must be finalised at least 24 hours before the meeting and should be published to all members of the board by the Secretary. Any items that come up 24 hours before the meeting can be brought up at the end of the meeting but if needed can be delayed to the agenda of the next board meeting.
 
