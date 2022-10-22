@@ -47,6 +47,7 @@ export const sidebar: SidebarConfig = {
         "/services/shared.md",
         "/services/vicverify.md",
         "/services/vecbot.md",
+        "/services/internal.md",
       ],
     },
   ],
