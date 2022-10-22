@@ -26,6 +26,7 @@ export const sidebar: SidebarConfig = {
         "/club/finances.md",
         "/club/handover.md",
         "/club/technology.md",
+        "/club/drive.md",
       ],
     },
   ],
