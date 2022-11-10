@@ -24,7 +24,7 @@ Sponsored by Google, GDSC is for anyone interested in learning about Google's te
 
 ### Victoria Artificial Intelligence and Machine Learning (VAIML)
 
-### Victoria Game Development Club (VGDC)
+### Game Developers Group (GDG)
 
 
 ### Looking Glass
