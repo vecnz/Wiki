@@ -1,6 +1,6 @@
 {
   "name": "wiki",
-  "packageManager": "yarn@3.2.4",
+  "packageManager": "yarn@3.3.0",
   "repository": "https://github.com/vecnz/wiki.git",
   "author": {
     "name": "Victoria Engineering Club",
