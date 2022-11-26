@@ -12,7 +12,5 @@
 
 node_modules
 
-# VuePress config
-.cache
-.temp
+# Output of build
 dist

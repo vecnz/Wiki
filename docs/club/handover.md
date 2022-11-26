@@ -8,7 +8,7 @@ Before the AGM several tasks should be finished by the board in preparation for 
 - Working with clubs in the collective to support their handover
 
 ## Annual General Meeting
-Handover planning begins at the start of Semester 2 with the initial planning and organising of the AGM. The current board will be responsible for organising the AGM and the handover process. In organising the AGM as per the [constitution]((https://docs.google.com/document/d/1Le_57K9CogDMoSCBYt03LQOrCirJGqtxXArxTZgYdNA/view)), the current board will be responsible for:
+Handover planning begins at the start of Semester 2 with the initial planning and organising of the AGM. The current board will be responsible for organising the AGM and the handover process. In organising the AGM as per the <a href="https://docs.google.com/document/d/1Le_57K9CogDMoSCBYt03LQOrCirJGqtxXArxTZgYdNA/view">constitution</a>, the current board will be responsible for:
 - Secretary organising the AGM
 - President writing presidents report
 - Treasurer presenting financial report
