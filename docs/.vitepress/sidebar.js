@@ -8,6 +8,7 @@ export default {
         { text: "Class Reps", link: "/representation/classreps" },
         { text: "Representation", link: "/representation/representation" },
         { text: "Boards", link: "/representation/boards" },
+        { text: "Governance Structure", link: "/representation/governance" },
       ],
     },
   ],
