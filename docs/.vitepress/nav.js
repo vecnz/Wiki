@@ -4,12 +4,12 @@ export default [
     link: "/representation/",
   },
   {
-    text: "University Processes",
+    text: "University Guides",
     link: "/university/",
   },
   {
-    text: "VEC Processes",
-    link: "/club/",
+    text: "Hosted Services",
+    link: "/services/",
   },
   {
     text: 'Club Wikis',
@@ -17,10 +17,6 @@ export default [
       { text: 'VEC', link: '/clubs/vec/' },
       { text: 'VUWWIT', link: '/clubs/vuwwit/' },
     ]
-  },
-  {
-    text: "VEC Services",
-    link: "/services/",
   },
 ]
 
