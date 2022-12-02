@@ -1,5 +1,5 @@
 {
-  "name": "wiki-2",
+  "name": "wiki",
   "packageManager": "yarn@3.2.4",
   "scripts": {
     "docs:dev": "vitepress dev docs",
