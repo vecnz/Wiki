@@ -1939,9 +1939,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"wiki-2@workspace:.":
+"wiki@workspace:.":
   version: 0.0.0-use.local
-  resolution: "wiki-2@workspace:."
+  resolution: "wiki@workspace:."
   dependencies:
     vitepress: ^1.0.0-draft.8
     vue: ^3.2.45
