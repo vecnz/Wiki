@@ -1845,7 +1845,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitepress@npm:^1.0.0-draft.8":
+"vitepress@npm:^1.0.0-alpha.30":
   version: 1.0.0-draft.8
   resolution: "vitepress@npm:1.0.0-draft.8"
   dependencies:
@@ -1943,7 +1943,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wiki@workspace:."
   dependencies:
-    vitepress: ^1.0.0-draft.8
+    vitepress: ^1.0.0-alpha.30
     vue: ^3.2.45
   languageName: unknown
   linkType: soft
