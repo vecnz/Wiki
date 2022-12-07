@@ -36,7 +36,7 @@ export default defineConfig({
       pattern: "https://github.com/vecnz/wiki/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
-    
+
     footer: {
       message: " MIT Licensed",
       copyright: "Copyright © 2022-present Victoria Engineering Club",
