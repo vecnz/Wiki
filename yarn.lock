@@ -1880,7 +1880,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitepress@npm:^1.0.0-alpha.30":
+"vitepress@npm:^1.0.0-draft.8":
   version: 1.0.0-draft.8
   resolution: "vitepress@npm:1.0.0-draft.8"
   dependencies:
@@ -1980,7 +1980,7 @@ __metadata:
   dependencies:
     "@vueuse/core": ^9.6.0
     body-scroll-lock: ^4.0.0-beta.0
-    vitepress: ^1.0.0-alpha.30
+    vitepress: ^1.0.0-draft.8
     vue: ^3.2.45
   languageName: unknown
   linkType: soft
