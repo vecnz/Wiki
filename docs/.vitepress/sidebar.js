@@ -4,7 +4,7 @@ export default {
       text: "Representation",
       collapsible: true,
       items: [
-        { text: "Introduction", link: "/representation/" },
+        { text: "Introduction", link: "/representation/introduction" },
         { text: "Class Reps", link: "/representation/classreps" },
         { text: "Representation", link: "/representation/representation" },
         { text: "Boards", link: "/representation/boards" },
@@ -20,7 +20,7 @@ export default {
       collapsed: true,
       link: "/clubs/vec/",
       items: [
-        { text: "Introduction", link: "/clubs/vec/index" },
+        { text: "Introduction", link: "/clubs/vec/introduction" },
         { text: "Getting Involved", link: "/clubs/vec/getting-involved" },
         { text: "VEC Collective", link: "/clubs/vec/collective" },
         { text: "Event Organising", link: "/clubs/vec/events" },
@@ -39,7 +39,7 @@ export default {
       collapsed: true,
       link: "/clubs/vuwwit/",
       items: [
-        { text: "Introduction", link: "/clubs/vuwwit/index" },
+        { text: "Introduction", link: "/clubs/vuwwit/introduction" },
       ],
     },
   ],
@@ -48,7 +48,7 @@ export default {
       text: "University Guides",
       collapsible: true,
       items: [
-        { text: "Introduction", link: "/university/index" },
+        { text: "Introduction", link: "/university/introduction" },
         { text: "FAQ", link: "/university/faq" },
       ],
     },
@@ -68,7 +68,7 @@ export default {
       text: "Hosted Services",
       collapsible: true,
       items: [
-        { text: "Introduction", link: "/services/index" },
+        { text: "Introduction", link: "/services/introduction" },
         { text: "Shared Services", link: "/services/shared" },
         { text: "VicVerify", link: "/services/vicverify" },
         { text: "VecBot", link: "/services/vecbot" },
