@@ -13,7 +13,7 @@ hero:
       link: https://puaha.wgtn.ac.nz
     - theme: alt # or brand
       text: VEC Website
-      link: https://vec.org.nz
+      link: https://vec.ac.nz
     - theme: alt # or brand
       text: VUWSA Website
       link: https://www.vuwsa.org.nz
