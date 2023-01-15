@@ -548,15 +548,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vueuse/core@npm:^9.9.0":
-  version: 9.9.0
-  resolution: "@vueuse/core@npm:9.9.0"
+"@vueuse/core@npm:^9.10.0":
+  version: 9.10.0
+  resolution: "@vueuse/core@npm:9.10.0"
   dependencies:
     "@types/web-bluetooth": ^0.0.16
-    "@vueuse/metadata": 9.9.0
-    "@vueuse/shared": 9.9.0
+    "@vueuse/metadata": 9.10.0
+    "@vueuse/shared": 9.10.0
     vue-demi: "*"
-  checksum: a3edc33994515a2d91fe84767a5230d51debcf7f4a53afc9c56c3793d4f47771fbcf43d32f3e33b1db316267a7607a60d31de068ef86d8fb77e7c4e050e29b36
+  checksum: 9e3b0c0baa1e3daf3ae508f76acf4e73ec80a2089d420f5de7c203e9fecd8cd4596a5e4635bbf09a762e0bba022f26806ee23b69d5d01a5d0e4b76e2ad2878a4
   languageName: node
   linkType: hard
 
@@ -567,10 +567,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vueuse/metadata@npm:9.9.0":
-  version: 9.9.0
-  resolution: "@vueuse/metadata@npm:9.9.0"
-  checksum: d0dd631f79d515c4650eb35671a38b282cf9458f3b86768a97a5d74fb1836440db1e0fed178d084d5174c926aa586509ed31597f0b062240ce268e6fe1f6c6fd
+"@vueuse/metadata@npm:9.10.0":
+  version: 9.10.0
+  resolution: "@vueuse/metadata@npm:9.10.0"
+  checksum: ef9b4970cc1795e197279b59cfd82c7475323c17ae02701e5a6be26df1258330d4fafb7c05d005dfa7af97277509a8589d62467925319e1c5c17715805554bb7
   languageName: node
   linkType: hard
 
@@ -591,12 +591,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vueuse/shared@npm:9.9.0":
-  version: 9.9.0
-  resolution: "@vueuse/shared@npm:9.9.0"
+"@vueuse/shared@npm:9.10.0":
+  version: 9.10.0
+  resolution: "@vueuse/shared@npm:9.10.0"
   dependencies:
     vue-demi: "*"
-  checksum: 590ffe76c883f7c53acecd1dfa34eea148d88a4bd17642bbaef10f8aed2b558cb50dbeeb1e07827f589a6b96a2bb2cc57dab576b20c34a6e5ab4b517d47b7b9d
+  checksum: 1481ad7273eb8835a42fd49805d32ae97465188d260ddb28fdffebda7bedea5943bf49c3bd128121b32719307eaf1cb69b37b60fa1195c10a555e7aec3d78c22
   languageName: node
   linkType: hard
 
@@ -1880,7 +1880,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vitepress@npm:^1.0.0-alpha.33":
+"vitepress@npm:^1.0.0-alpha.36":
   version: 1.0.0-draft.8
   resolution: "vitepress@npm:1.0.0-draft.8"
   dependencies:
@@ -1978,9 +1978,9 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wiki@workspace:."
   dependencies:
-    "@vueuse/core": ^9.9.0
+    "@vueuse/core": ^9.10.0
     body-scroll-lock: ^4.0.0-beta.0
-    vitepress: ^1.0.0-alpha.33
+    vitepress: ^1.0.0-alpha.36
     vue: ^3.2.45
   languageName: unknown
   linkType: soft

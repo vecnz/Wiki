@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@vueuse/core", "npm:9.9.0"],\
+            ["@vueuse/core", "npm:9.10.0"],\
             ["body-scroll-lock", "npm:4.0.0-beta.0"],\
             ["vitepress", "npm:1.0.0-draft.8"],\
             ["vue", "npm:3.2.45"]\
@@ -668,14 +668,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:9.9.0", {\
-          "packageLocation": "./.yarn/cache/@vueuse-core-npm-9.9.0-fc4ce5c55c-a3edc33994.zip/node_modules/@vueuse/core/",\
+        ["npm:9.10.0", {\
+          "packageLocation": "./.yarn/cache/@vueuse-core-npm-9.10.0-34c728274d-9e3b0c0baa.zip/node_modules/@vueuse/core/",\
           "packageDependencies": [\
-            ["@vueuse/core", "npm:9.9.0"],\
+            ["@vueuse/core", "npm:9.10.0"],\
             ["@types/web-bluetooth", "npm:0.0.16"],\
-            ["@vueuse/metadata", "npm:9.9.0"],\
-            ["@vueuse/shared", "npm:9.9.0"],\
-            ["vue-demi", "virtual:bbc43e09ab6ca40b83734d2d95d3e8fa65c158f948c96b3616823af40e780f40288de91815cbf97680de99d6ecb8daac361a3d90590dc168da97c8f591409b8b#npm:0.13.11"]\
+            ["@vueuse/metadata", "npm:9.10.0"],\
+            ["@vueuse/shared", "npm:9.10.0"],\
+            ["vue-demi", "virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -709,10 +709,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:9.9.0", {\
-          "packageLocation": "./.yarn/cache/@vueuse-metadata-npm-9.9.0-f194744818-d0dd631f79.zip/node_modules/@vueuse/metadata/",\
+        ["npm:9.10.0", {\
+          "packageLocation": "./.yarn/cache/@vueuse-metadata-npm-9.10.0-cc0d7a7681-ef9b4970cc.zip/node_modules/@vueuse/metadata/",\
           "packageDependencies": [\
-            ["@vueuse/metadata", "npm:9.9.0"]\
+            ["@vueuse/metadata", "npm:9.10.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -725,11 +725,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:9.9.0", {\
-          "packageLocation": "./.yarn/cache/@vueuse-shared-npm-9.9.0-bbc43e09ab-590ffe76c8.zip/node_modules/@vueuse/shared/",\
+        ["npm:9.10.0", {\
+          "packageLocation": "./.yarn/cache/@vueuse-shared-npm-9.10.0-40fb72e913-1481ad7273.zip/node_modules/@vueuse/shared/",\
           "packageDependencies": [\
-            ["@vueuse/shared", "npm:9.9.0"],\
-            ["vue-demi", "virtual:bbc43e09ab6ca40b83734d2d95d3e8fa65c158f948c96b3616823af40e780f40288de91815cbf97680de99d6ecb8daac361a3d90590dc168da97c8f591409b8b#npm:0.13.11"]\
+            ["@vueuse/shared", "npm:9.10.0"],\
+            ["vue-demi", "virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11"]\
           ],\
           "linkType": "HARD"\
         }],\
@@ -2233,10 +2233,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:bbc43e09ab6ca40b83734d2d95d3e8fa65c158f948c96b3616823af40e780f40288de91815cbf97680de99d6ecb8daac361a3d90590dc168da97c8f591409b8b#npm:0.13.11", {\
-          "packageLocation": "./.yarn/unplugged/vue-demi-virtual-8607eea8b3/node_modules/vue-demi/",\
+        ["virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11", {\
+          "packageLocation": "./.yarn/unplugged/vue-demi-virtual-79975bbac8/node_modules/vue-demi/",\
           "packageDependencies": [\
-            ["vue-demi", "virtual:bbc43e09ab6ca40b83734d2d95d3e8fa65c158f948c96b3616823af40e780f40288de91815cbf97680de99d6ecb8daac361a3d90590dc168da97c8f591409b8b#npm:0.13.11"],\
+            ["vue-demi", "virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11"],\
             ["@types/vue", null],\
             ["@types/vue__composition-api", null],\
             ["@vue/composition-api", null],\
@@ -2293,7 +2293,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["wiki", "workspace:."],\
-            ["@vueuse/core", "npm:9.9.0"],\
+            ["@vueuse/core", "npm:9.10.0"],\
             ["body-scroll-lock", "npm:4.0.0-beta.0"],\
             ["vitepress", "npm:1.0.0-draft.8"],\
             ["vue", "npm:3.2.45"]\
@@ -2330,6 +2330,7 @@ const StringDecoder = require('string_decoder');
 const url = require('url');
 const os = require('os');
 const nodeUtils = require('util');
+const readline = require('readline');
 const assert = require('assert');
 const stream = require('stream');
 const zlib = require('zlib');
@@ -6242,6 +6243,12 @@ class FileHandle {
     } finally {
       this[kUnref]();
     }
+  }
+  readLines(options) {
+    return readline.createInterface({
+      input: this.createReadStream(options),
+      crlfDelay: Infinity
+    });
   }
   async stat(opts) {
     try {
@@ -10938,6 +10945,9 @@ function getPathForDisplay(p) {
   return npath.normalize(npath.fromPortablePath(p));
 }
 
+const [major, minor] = process.versions.node.split(`.`).map((value) => parseInt(value, 10));
+const WATCH_MODE_MESSAGE_USES_ARRAYS = major > 19 || major === 19 && minor >= 2;
+
 const builtinModules = new Set(require$$0.Module.builtinModules || Object.keys(process.binding(`natives`)));
 const isBuiltinModule = (request) => request.startsWith(`node:`) || builtinModules.has(request);
 function readPackageScope(checkPath) {
@@ -10972,13 +10982,19 @@ Instead change the require of ${basename} in ${parentPath} to a dynamic import()
   err.code = `ERR_REQUIRE_ESM`;
   return err;
 }
-
-const shouldReportRequiredModules = process.env.WATCH_REPORT_DEPENDENCIES;
-function reportModuleToWatchMode(filename) {
-  if (shouldReportRequiredModules && process.send) {
-    process.send({ "watch:require": npath.fromPortablePath(VirtualFS.resolveVirtual(npath.toPortablePath(filename))) });
+function reportRequiredFilesToWatchMode(files) {
+  if (process.env.WATCH_REPORT_DEPENDENCIES && process.send) {
+    files = files.map((filename) => npath.fromPortablePath(VirtualFS.resolveVirtual(npath.toPortablePath(filename))));
+    if (WATCH_MODE_MESSAGE_USES_ARRAYS) {
+      process.send({ "watch:require": files });
+    } else {
+      for (const filename of files) {
+        process.send({ "watch:require": filename });
+      }
+    }
   }
 }
+
 function applyPatch(pnpapi, opts) {
   const defaultCache = {};
   let enableNativeHooks = true;
@@ -11038,7 +11054,7 @@ function applyPatch(pnpapi, opts) {
     }
     const module = new require$$0.Module(modulePath, parent != null ? parent : void 0);
     module.pnpApiPath = moduleApiPath;
-    reportModuleToWatchMode(modulePath);
+    reportRequiredFilesToWatchMode([modulePath]);
     entry.cache[modulePath] = module;
     if (isMain) {
       process.mainModule = module;
@@ -12396,6 +12412,7 @@ Required by: ${issuerLocator.name}@${issuerLocator.reference} (via ${issuerForDi
     if (qualifiedPath) {
       return ppath.normalize(qualifiedPath);
     } else {
+      reportRequiredFilesToWatchMode(candidates.map((candidate) => npath.fromPortablePath(candidate)));
       const unqualifiedPathForDisplay = getPathForDisplay(unqualifiedPath);
       const containingPackage = findPackageLocator(unqualifiedPath);
       if (containingPackage) {
