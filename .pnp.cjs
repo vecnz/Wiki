@@ -28,10 +28,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@vueuse/core", "npm:9.10.0"],\
-            ["body-scroll-lock", "npm:4.0.0-beta.0"],\
             ["vitepress", "npm:1.0.0-draft.8"],\
-            ["vue", "npm:3.2.45"]\
+            ["vue", "npm:3.2.47"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -377,13 +375,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/web-bluetooth", "npm:0.0.14"]\
           ],\
           "linkType": "HARD"\
-        }],\
-        ["npm:0.0.16", {\
-          "packageLocation": "./.yarn/cache/@types-web-bluetooth-npm-0.0.16-f114b1536b-f68a630d06.zip/node_modules/@types/web-bluetooth/",\
-          "packageDependencies": [\
-            ["@types/web-bluetooth", "npm:0.0.16"]\
-          ],\
-          "linkType": "HARD"\
         }]\
       ]],\
       ["@vitejs/plugin-vue", [\
@@ -424,12 +415,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-compiler-core-npm-3.2.45-2a68bebbd0-e3c687b24c.zip/node_modules/@vue/compiler-core/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-compiler-core-npm-3.2.47-bb08feddfe-9ccc2a0b89.zip/node_modules/@vue/compiler-core/",\
           "packageDependencies": [\
-            ["@vue/compiler-core", "npm:3.2.45"],\
+            ["@vue/compiler-core", "npm:3.2.47"],\
             ["@babel/parser", "npm:7.20.3"],\
-            ["@vue/shared", "npm:3.2.45"],\
+            ["@vue/shared", "npm:3.2.47"],\
             ["estree-walker", "npm:2.0.2"],\
             ["source-map", "npm:0.6.1"]\
           ],\
@@ -446,12 +437,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-compiler-dom-npm-3.2.45-e742186d0b-8911553863.zip/node_modules/@vue/compiler-dom/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-compiler-dom-npm-3.2.47-a1a6348264-1eced735f8.zip/node_modules/@vue/compiler-dom/",\
           "packageDependencies": [\
-            ["@vue/compiler-dom", "npm:3.2.45"],\
-            ["@vue/compiler-core", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"]\
+            ["@vue/compiler-dom", "npm:3.2.47"],\
+            ["@vue/compiler-core", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -474,16 +465,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-compiler-sfc-npm-3.2.45-f1fe8426df-bec375faa0.zip/node_modules/@vue/compiler-sfc/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-compiler-sfc-npm-3.2.47-d9eca6b75b-4588a51331.zip/node_modules/@vue/compiler-sfc/",\
           "packageDependencies": [\
-            ["@vue/compiler-sfc", "npm:3.2.45"],\
+            ["@vue/compiler-sfc", "npm:3.2.47"],\
             ["@babel/parser", "npm:7.20.3"],\
-            ["@vue/compiler-core", "npm:3.2.45"],\
-            ["@vue/compiler-dom", "npm:3.2.45"],\
-            ["@vue/compiler-ssr", "npm:3.2.45"],\
-            ["@vue/reactivity-transform", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"],\
+            ["@vue/compiler-core", "npm:3.2.47"],\
+            ["@vue/compiler-dom", "npm:3.2.47"],\
+            ["@vue/compiler-ssr", "npm:3.2.47"],\
+            ["@vue/reactivity-transform", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"],\
             ["estree-walker", "npm:2.0.2"],\
             ["magic-string", "npm:0.25.9"],\
             ["postcss", "npm:8.4.19"],\
@@ -502,12 +493,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-compiler-ssr-npm-3.2.45-0b951e5028-830c475506.zip/node_modules/@vue/compiler-ssr/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-compiler-ssr-npm-3.2.47-c46fb0bb52-91bc6e4674.zip/node_modules/@vue/compiler-ssr/",\
           "packageDependencies": [\
-            ["@vue/compiler-ssr", "npm:3.2.45"],\
-            ["@vue/compiler-dom", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"]\
+            ["@vue/compiler-ssr", "npm:3.2.47"],\
+            ["@vue/compiler-dom", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -521,11 +512,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-reactivity-npm-3.2.45-bc3378a52c-4ba609744a.zip/node_modules/@vue/reactivity/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-reactivity-npm-3.2.47-1182f7aa47-bd61134e4b.zip/node_modules/@vue/reactivity/",\
           "packageDependencies": [\
-            ["@vue/reactivity", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"]\
+            ["@vue/reactivity", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -543,13 +534,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-reactivity-transform-npm-3.2.45-05914b9134-4010408189.zip/node_modules/@vue/reactivity-transform/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-reactivity-transform-npm-3.2.47-89701a53ab-6fe54374aa.zip/node_modules/@vue/reactivity-transform/",\
           "packageDependencies": [\
-            ["@vue/reactivity-transform", "npm:3.2.45"],\
+            ["@vue/reactivity-transform", "npm:3.2.47"],\
             ["@babel/parser", "npm:7.20.3"],\
-            ["@vue/compiler-core", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"],\
+            ["@vue/compiler-core", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"],\
             ["estree-walker", "npm:2.0.2"],\
             ["magic-string", "npm:0.25.9"]\
           ],\
@@ -566,12 +557,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-runtime-core-npm-3.2.45-084482e779-0ac376a760.zip/node_modules/@vue/runtime-core/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-runtime-core-npm-3.2.47-d5ec5c27c7-56fd41368c.zip/node_modules/@vue/runtime-core/",\
           "packageDependencies": [\
-            ["@vue/runtime-core", "npm:3.2.45"],\
-            ["@vue/reactivity", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"]\
+            ["@vue/runtime-core", "npm:3.2.47"],\
+            ["@vue/reactivity", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -587,12 +578,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-runtime-dom-npm-3.2.45-6ab018299f-c66c71a2fc.zip/node_modules/@vue/runtime-dom/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-runtime-dom-npm-3.2.47-da74228cd1-8987d72761.zip/node_modules/@vue/runtime-dom/",\
           "packageDependencies": [\
-            ["@vue/runtime-dom", "npm:3.2.45"],\
-            ["@vue/runtime-core", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"],\
+            ["@vue/runtime-dom", "npm:3.2.47"],\
+            ["@vue/runtime-core", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"],\
             ["csstype", "npm:2.6.21"]\
           ],\
           "linkType": "HARD"\
@@ -606,21 +597,21 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-server-renderer-npm-3.2.45-dbee798520-062812235c.zip/node_modules/@vue/server-renderer/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-server-renderer-npm-3.2.47-b845561a5d-482fe3c9bb.zip/node_modules/@vue/server-renderer/",\
           "packageDependencies": [\
-            ["@vue/server-renderer", "npm:3.2.45"]\
+            ["@vue/server-renderer", "npm:3.2.47"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:06b4b60efe017e0fdf8405fef0e04a64d7dc86cf13e04f05fb681889d996c75efd151033b2e012c72dfb9a0b8d1a647b6d3a8115078891aebe2fa1a4e81f50bf#npm:3.2.45", {\
-          "packageLocation": "./.yarn/__virtual__/@vue-server-renderer-virtual-8298a8cec7/0/cache/@vue-server-renderer-npm-3.2.45-dbee798520-062812235c.zip/node_modules/@vue/server-renderer/",\
+        ["virtual:487db916e160a571ff50687ed972004ec0078aa76b7fedf7bdabfd607dfed3ba7b2d1f51e99387f885501b4dbb11471c0ce20d647adb7ae38656bbc259642ae8#npm:3.2.47", {\
+          "packageLocation": "./.yarn/__virtual__/@vue-server-renderer-virtual-7de059ee50/0/cache/@vue-server-renderer-npm-3.2.47-b845561a5d-482fe3c9bb.zip/node_modules/@vue/server-renderer/",\
           "packageDependencies": [\
-            ["@vue/server-renderer", "virtual:06b4b60efe017e0fdf8405fef0e04a64d7dc86cf13e04f05fb681889d996c75efd151033b2e012c72dfb9a0b8d1a647b6d3a8115078891aebe2fa1a4e81f50bf#npm:3.2.45"],\
+            ["@vue/server-renderer", "virtual:487db916e160a571ff50687ed972004ec0078aa76b7fedf7bdabfd607dfed3ba7b2d1f51e99387f885501b4dbb11471c0ce20d647adb7ae38656bbc259642ae8#npm:3.2.47"],\
             ["@types/vue", null],\
-            ["@vue/compiler-ssr", "npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"],\
-            ["vue", "npm:3.2.45"]\
+            ["@vue/compiler-ssr", "npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"],\
+            ["vue", "npm:3.2.47"]\
           ],\
           "packagePeers": [\
             "@types/vue",\
@@ -652,10 +643,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/@vue-shared-npm-3.2.45-1855c9c551-ff3205056c.zip/node_modules/@vue/shared/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/@vue-shared-npm-3.2.47-efa4e85dc8-0aa711dc91.zip/node_modules/@vue/shared/",\
           "packageDependencies": [\
-            ["@vue/shared", "npm:3.2.45"]\
+            ["@vue/shared", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -667,17 +658,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vueuse/core", "npm:8.9.4"]\
           ],\
           "linkType": "SOFT"\
-        }],\
-        ["npm:9.10.0", {\
-          "packageLocation": "./.yarn/cache/@vueuse-core-npm-9.10.0-34c728274d-9e3b0c0baa.zip/node_modules/@vueuse/core/",\
-          "packageDependencies": [\
-            ["@vueuse/core", "npm:9.10.0"],\
-            ["@types/web-bluetooth", "npm:0.0.16"],\
-            ["@vueuse/metadata", "npm:9.10.0"],\
-            ["@vueuse/shared", "npm:9.10.0"],\
-            ["vue-demi", "virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11"]\
-          ],\
-          "linkType": "HARD"\
         }],\
         ["virtual:47a4b97d35ac7870721ff995a86ff3c62fac88deb7794aa93d549ca4a1e780432d654a985212d7be7d798de841a7e88e416d3b8b88d80bedd972ca5f25bf0a82#npm:8.9.4", {\
           "packageLocation": "./.yarn/__virtual__/@vueuse-core-virtual-bc615bbdaf/0/cache/@vueuse-core-npm-8.9.4-f7542d327d-4f19874884.zip/node_modules/@vueuse/core/",\
@@ -708,13 +688,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vueuse/metadata", "npm:8.9.4"]\
           ],\
           "linkType": "HARD"\
-        }],\
-        ["npm:9.10.0", {\
-          "packageLocation": "./.yarn/cache/@vueuse-metadata-npm-9.10.0-cc0d7a7681-ef9b4970cc.zip/node_modules/@vueuse/metadata/",\
-          "packageDependencies": [\
-            ["@vueuse/metadata", "npm:9.10.0"]\
-          ],\
-          "linkType": "HARD"\
         }]\
       ]],\
       ["@vueuse/shared", [\
@@ -724,14 +697,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@vueuse/shared", "npm:8.9.4"]\
           ],\
           "linkType": "SOFT"\
-        }],\
-        ["npm:9.10.0", {\
-          "packageLocation": "./.yarn/cache/@vueuse-shared-npm-9.10.0-40fb72e913-1481ad7273.zip/node_modules/@vueuse/shared/",\
-          "packageDependencies": [\
-            ["@vueuse/shared", "npm:9.10.0"],\
-            ["vue-demi", "virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11"]\
-          ],\
-          "linkType": "HARD"\
         }],\
         ["virtual:bc615bbdaf3b62f3af55ddeef8eeb16b42fe90fcab64e72e77d7b8a784371efa4cae7fdfe85a035a4e60c5c43ffd8c94e4363e4ce95c1e085f346f769629c0fd#npm:8.9.4", {\
           "packageLocation": "./.yarn/__virtual__/@vueuse-shared-virtual-4133eda025/0/cache/@vueuse-shared-npm-8.9.4-7a54ac7644-83a29ec879.zip/node_modules/@vueuse/shared/",\
@@ -2212,15 +2177,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "HARD"\
         }],\
-        ["npm:3.2.45", {\
-          "packageLocation": "./.yarn/cache/vue-npm-3.2.45-06b4b60efe-df60ca80cb.zip/node_modules/vue/",\
+        ["npm:3.2.47", {\
+          "packageLocation": "./.yarn/cache/vue-npm-3.2.47-487db916e1-3b586f61fd.zip/node_modules/vue/",\
           "packageDependencies": [\
-            ["vue", "npm:3.2.45"],\
-            ["@vue/compiler-dom", "npm:3.2.45"],\
-            ["@vue/compiler-sfc", "npm:3.2.45"],\
-            ["@vue/runtime-dom", "npm:3.2.45"],\
-            ["@vue/server-renderer", "virtual:06b4b60efe017e0fdf8405fef0e04a64d7dc86cf13e04f05fb681889d996c75efd151033b2e012c72dfb9a0b8d1a647b6d3a8115078891aebe2fa1a4e81f50bf#npm:3.2.45"],\
-            ["@vue/shared", "npm:3.2.45"]\
+            ["vue", "npm:3.2.47"],\
+            ["@vue/compiler-dom", "npm:3.2.47"],\
+            ["@vue/compiler-sfc", "npm:3.2.47"],\
+            ["@vue/runtime-dom", "npm:3.2.47"],\
+            ["@vue/server-renderer", "virtual:487db916e160a571ff50687ed972004ec0078aa76b7fedf7bdabfd607dfed3ba7b2d1f51e99387f885501b4dbb11471c0ce20d647adb7ae38656bbc259642ae8#npm:3.2.47"],\
+            ["@vue/shared", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2232,23 +2197,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["vue-demi", "npm:0.13.11"]\
           ],\
           "linkType": "SOFT"\
-        }],\
-        ["virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11", {\
-          "packageLocation": "./.yarn/unplugged/vue-demi-virtual-79975bbac8/node_modules/vue-demi/",\
-          "packageDependencies": [\
-            ["vue-demi", "virtual:40fb72e9139bf4c8af89b1938d88790c0319279fda981315f900f97a090c0c749842a4ffbcea27e691720b5dba11d692a023713e348c3d80b4b5e5eafc5f9667#npm:0.13.11"],\
-            ["@types/vue", null],\
-            ["@types/vue__composition-api", null],\
-            ["@vue/composition-api", null],\
-            ["vue", null]\
-          ],\
-          "packagePeers": [\
-            "@types/vue",\
-            "@types/vue__composition-api",\
-            "@vue/composition-api",\
-            "vue"\
-          ],\
-          "linkType": "HARD"\
         }],\
         ["virtual:bc615bbdaf3b62f3af55ddeef8eeb16b42fe90fcab64e72e77d7b8a784371efa4cae7fdfe85a035a4e60c5c43ffd8c94e4363e4ce95c1e085f346f769629c0fd#npm:0.13.11", {\
           "packageLocation": "./.yarn/unplugged/vue-demi-virtual-0d9af15326/node_modules/vue-demi/",\
@@ -2293,10 +2241,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["wiki", "workspace:."],\
-            ["@vueuse/core", "npm:9.10.0"],\
-            ["body-scroll-lock", "npm:4.0.0-beta.0"],\
             ["vitepress", "npm:1.0.0-draft.8"],\
-            ["vue", "npm:3.2.45"]\
+            ["vue", "npm:3.2.47"]\
           ],\
           "linkType": "SOFT"\
         }]\
