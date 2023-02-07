@@ -2,7 +2,7 @@ export default {
   "/representation/": [
     {
       text: "Representation",
-      collapsible: true,
+      collapsed: true,
       items: [
         { text: "Introduction", link: "/representation/introduction" },
         { text: "Class Reps", link: "/representation/classreps" },
@@ -16,7 +16,7 @@ export default {
 
     {
       text: "Victoria Engineering Club",
-      collapsible: true,
+      collapsed: true,
       collapsed: true,
       link: "/clubs/vec/",
       items: [
@@ -35,7 +35,7 @@ export default {
     },
     {
       text: "VUWWIT",
-      collapsible: true,
+      collapsed: true,
       collapsed: true,
       link: "/clubs/vuwwit/",
       items: [
@@ -46,7 +46,7 @@ export default {
   "/university/": [
     {
       text: "University Guides",
-      collapsible: true,
+      collapsed: true,
       items: [
         { text: "Introduction", link: "/university/introduction" },
         { text: "FAQ", link: "/university/faq" },
@@ -55,7 +55,7 @@ export default {
     {
       link: "/university/guides/",
       text: "Guides",
-      collapsible: true,
+      collapsed: true,
       items: [
         { text: "Git", link: "/university/guides/git" },
         { text: "SSH and ECS", link: "/university/guides/ssh" },
@@ -66,7 +66,7 @@ export default {
   "/services/": [
     {
       text: "Hosted Services",
-      collapsible: true,
+      collapsed: true,
       items: [
         { text: "Introduction", link: "/services/introduction" },
         { text: "Shared Services", link: "/services/shared" },
