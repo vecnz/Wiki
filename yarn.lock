@@ -199,14 +199,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@docsearch/css@npm:3.3.3, @docsearch/css@npm:^3.3.2":
+"@docsearch/css@npm:3.3.3, @docsearch/css@npm:^3.3.3":
   version: 3.3.3
   resolution: "@docsearch/css@npm:3.3.3"
   checksum: c3e678dd5e05a962d3e29b4c953632a013af3a352ad99d0e630546409e665684e122265034bca1619d9bd659e42d35c7cc90ee373836fcfb2614aae2057c5dc1
   languageName: node
   linkType: hard
 
-"@docsearch/js@npm:^3.3.2":
+"@docsearch/js@npm:^3.3.3":
   version: 3.3.3
   resolution: "@docsearch/js@npm:3.3.3"
   dependencies:
@@ -563,7 +563,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vueuse/core@npm:^9.12.0":
+"@vueuse/core@npm:^9.13.0":
   version: 9.13.0
   resolution: "@vueuse/core@npm:9.13.0"
   dependencies:
@@ -1565,7 +1565,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"shiki@npm:^0.14.0":
+"shiki@npm:^0.14.1":
   version: 0.14.1
   resolution: "shiki@npm:0.14.1"
   dependencies:
@@ -1724,9 +1724,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^4.0.4":
-  version: 4.1.2
-  resolution: "vite@npm:4.1.2"
+"vite@npm:^4.1.4":
+  version: 4.1.4
+  resolution: "vite@npm:4.1.4"
   dependencies:
     esbuild: ^0.16.14
     fsevents: ~2.3.2
@@ -1758,26 +1758,26 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: c3d92b7ab59095498e80e70a7847c7a4c4fd7f16f859c57dc93c0dc09ec57584819a929924e8d8858bdde157f0386ec37322bdb064da7f8f4854c8aa22d0beec
+  checksum: 50a9a1f2e29e0ee8fefdec60314d38fb9b746df0bb6ae5a8114014b5bfd95e0fc9b29c0d5e73939361ba53af7eb66c7d20c5656bbe53a783e96540bd3b907c47
   languageName: node
   linkType: hard
 
-"vitepress@npm:^1.0.0-alpha.46":
-  version: 1.0.0-alpha.46
-  resolution: "vitepress@npm:1.0.0-alpha.46"
+"vitepress@npm:^1.0.0-alpha.48":
+  version: 1.0.0-alpha.48
+  resolution: "vitepress@npm:1.0.0-alpha.48"
   dependencies:
-    "@docsearch/css": ^3.3.2
-    "@docsearch/js": ^3.3.2
+    "@docsearch/css": ^3.3.3
+    "@docsearch/js": ^3.3.3
     "@vitejs/plugin-vue": ^4.0.0
     "@vue/devtools-api": ^6.5.0
-    "@vueuse/core": ^9.12.0
+    "@vueuse/core": ^9.13.0
     body-scroll-lock: 4.0.0-beta.0
-    shiki: ^0.14.0
-    vite: ^4.0.4
-    vue: ^3.2.45
+    shiki: ^0.14.1
+    vite: ^4.1.4
+    vue: ^3.2.47
   bin:
     vitepress: bin/vitepress.js
-  checksum: 26fc30d54884bea7b29bbd895ba31fe10a4ca3a4205011c6b344a47dc6cb547e31ae312f36d0fb514d0673ea48b514deac730437d2eeb5a3f0ee75b69739451a
+  checksum: e0c6e9b39aa0b59167e7f04140957f83781cc5fdc214dc9e35943e29423697b95aa194a8c1e1e4754d69616718e6d77d27892b3e82c33eeca17ac2ee750ed04b
   languageName: node
   linkType: hard
 
@@ -1811,7 +1811,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vue@npm:^3.2.45, vue@npm:^3.2.47":
+"vue@npm:^3.2.47":
   version: 3.2.47
   resolution: "vue@npm:3.2.47"
   dependencies:
@@ -1848,7 +1848,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "wiki@workspace:."
   dependencies:
-    vitepress: ^1.0.0-alpha.46
+    vitepress: ^1.0.0-alpha.48
     vue: ^3.2.47
   languageName: unknown
   linkType: soft

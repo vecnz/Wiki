@@ -38,8 +38,8 @@ export default defineConfig({
     },
 
     footer: {
-      message: " MIT Licensed",
-      copyright: "Copyright © 2022-present Victoria Engineering Club",
+      message: " AGPLv3 & Creative Commons Attribution-ShareAlike 4.0 International Licensed",
+      copyright: "Copyright © 2023-present Tūhura Tech",
     }
   },
 });
