@@ -29,6 +29,7 @@ export default {
         { text: "Club structure", link: "/clubs/vec/structure" },
         { text: "Finances", link: "/clubs/vec/finances" },
         { text: "Handover", link: "/clubs/vec/handover" },
+        { text: "New Year Tasks", link: "/clubs/vec/new-year" },
         { text: "Technology", link: "/clubs/vec/technology" },
         { text: "Google Drive", link: "/clubs/vec/drive" },
       ],
