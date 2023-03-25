@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["vitepress", "npm:1.0.0-alpha.61"],\
+            ["vitepress", "npm:1.0.0-alpha.62"],\
             ["vue", "npm:3.2.47"]\
           ],\
           "linkType": "SOFT"\
@@ -574,13 +574,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.1.0", {\
-          "packageLocation": "./.yarn/__virtual__/@vitejs-plugin-vue-virtual-da551ef5e0/0/cache/@vitejs-plugin-vue-npm-4.1.0-7f9225ba6f-532192a3da.zip/node_modules/@vitejs/plugin-vue/",\
+        ["virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.1.0", {\
+          "packageLocation": "./.yarn/__virtual__/@vitejs-plugin-vue-virtual-e43283fdfb/0/cache/@vitejs-plugin-vue-npm-4.1.0-7f9225ba6f-532192a3da.zip/node_modules/@vitejs/plugin-vue/",\
           "packageDependencies": [\
-            ["@vitejs/plugin-vue", "virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.1.0"],\
+            ["@vitejs/plugin-vue", "virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.1.0"],\
             ["@types/vite", null],\
             ["@types/vue", null],\
-            ["vite", "virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.2.1"],\
+            ["vite", "virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.2.1"],\
             ["vue", "npm:3.2.47"]\
           ],\
           "packagePeers": [\
@@ -1993,10 +1993,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.2.1", {\
-          "packageLocation": "./.yarn/__virtual__/vite-virtual-737f9d427d/0/cache/vite-npm-4.2.1-a0fa6996de-70eb162ffc.zip/node_modules/vite/",\
+        ["virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.2.1", {\
+          "packageLocation": "./.yarn/__virtual__/vite-virtual-98791cc8c3/0/cache/vite-npm-4.2.1-a0fa6996de-70eb162ffc.zip/node_modules/vite/",\
           "packageDependencies": [\
-            ["vite", "virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.2.1"],\
+            ["vite", "virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.2.1"],\
             ["@types/less", null],\
             ["@types/node", null],\
             ["@types/sass", null],\
@@ -2031,18 +2031,18 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["vitepress", [\
-        ["npm:1.0.0-alpha.61", {\
-          "packageLocation": "./.yarn/cache/vitepress-npm-1.0.0-alpha.61-30f7c87914-240c2f90b8.zip/node_modules/vitepress/",\
+        ["npm:1.0.0-alpha.62", {\
+          "packageLocation": "./.yarn/cache/vitepress-npm-1.0.0-alpha.62-e3b0446c89-137984c930.zip/node_modules/vitepress/",\
           "packageDependencies": [\
-            ["vitepress", "npm:1.0.0-alpha.61"],\
+            ["vitepress", "npm:1.0.0-alpha.62"],\
             ["@docsearch/css", "npm:3.3.3"],\
             ["@docsearch/js", "npm:3.3.3"],\
-            ["@vitejs/plugin-vue", "virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.1.0"],\
+            ["@vitejs/plugin-vue", "virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.1.0"],\
             ["@vue/devtools-api", "npm:6.5.0"],\
             ["@vueuse/core", "npm:9.13.0"],\
             ["body-scroll-lock", "npm:4.0.0-beta.0"],\
             ["shiki", "npm:0.14.1"],\
-            ["vite", "virtual:30f7c87914b9b4cbf4326f60669474f2f156d72a5d4227ac9dc90d588ff409d61b80833a4c4f066c4f250ef2beb981ce5d25f0c968497424aff6ba00d70c0647#npm:4.2.1"],\
+            ["vite", "virtual:e3b0446c89d3bb044c4dbf0186fa7f396b1dca3b2171e388c18e8e2b30dd276234a3c542d24c15ceaf52d0f83d939af45860bf97af6781316fe7bafc67899573#npm:4.2.1"],\
             ["vue", "npm:3.2.47"]\
           ],\
           "linkType": "HARD"\
@@ -2131,7 +2131,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["wiki", "workspace:."],\
-            ["vitepress", "npm:1.0.0-alpha.61"],\
+            ["vitepress", "npm:1.0.0-alpha.62"],\
             ["vue", "npm:3.2.47"]\
           ],\
           "linkType": "SOFT"\
